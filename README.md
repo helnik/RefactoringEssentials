@@ -1,4 +1,4 @@
-# Refactoring Essentials for Visual Studio
+# Refactoring Essentials for Visual Studio   
 
 [![Join the chat at https://gitter.im/icsharpcode/RefactoringEssentials](https://badges.gitter.im/icsharpcode/RefactoringEssentials.svg)](https://gitter.im/icsharpcode/RefactoringEssentials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
